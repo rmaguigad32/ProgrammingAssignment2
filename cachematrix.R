@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## i = variable for inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
